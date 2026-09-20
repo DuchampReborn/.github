@@ -1,7 +1,7 @@
 
 ### Development for Poco X6 Pro 5G/Redmi K70E "`Duchamp`"
 ##### IMPORTANT: This org might not always be up to date, and some stuff will be broken.
-#### For stable sources check [MT6897-devs Org](http://https://github.com/mt6897-devs "MT6897 Org")
+#### For stable sources check [MT6897-devs Org](https://github.com/mt6897-devs "MT6897 Org")
 <p align="center">
   <img width="40%" src="https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-k70e-1.jpg">
 <p align="center"> <img src="https://img.shields.io/badge/codename-duchamp-blueviolet"> <img src="https://img.shields.io/badge/chipset-MT6897%20%2F%20Dimensity%208300%20Ultra-blue"> <img src="https://img.shields.io/badge/platform-AOSP-brightgreen"> </p>
