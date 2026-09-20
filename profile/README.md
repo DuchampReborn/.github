@@ -8,7 +8,7 @@
 </p>
 
 ### Required device specific repositories
-- [**Device tree**](https://github.com/mt6897-devs/device_xiaomi_duchamp) (`device_xiaomi_duchamp`)
+- [**Device tree**](https://github.com/DuchampReborn/device_xiaomi_duchamp) (`device_xiaomi_duchamp`)
 - [**Device kernel tree (Compiled outputs from kernel source)**](https://github.com/mt6897-devs/device_xiaomi_duchamp-kernel) (`device_xiaomi_duchamp-kernel`)
 ### Other required repositories
 - [**MediaTek sepolicy**](https://github.com/mt6897-devs/device_mediatek_sepolicy_vndr) (`device_mediatek_sepolicy_vndr`)
